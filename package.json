@@ -1,0 +1,17 @@
+{
+  "name": "mcp-git-repo-browser",
+  "version": "0.1.0",
+  "description": "A Node.js implementation of a Git repository browser using the Model Context Protocol (MCP)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Razorback16",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.5.0",
+    "fs-extra": "^11.3.0",
+    "simple-git": "^3.27.0"
+  }
+}
