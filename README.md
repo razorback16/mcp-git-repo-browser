@@ -2,6 +2,10 @@
 
 A Node.js implementation of a Git repository browser using the Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/zmmq29sb91">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/zmmq29sb91/badge" alt="Git Repo Browser MCP server" />
+</a>
+
 ## Configuration
 
 Add this to your MCP settings configuration file:
