@@ -1,5 +1,3 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/razorback16-mcp-git-repo-browser-badge.png)](https://mseep.ai/app/razorback16-mcp-git-repo-browser)
-
 # MCP Git Repo Browser (Node.js)
 
 A Node.js implementation of a Git repository browser using the Model Context Protocol (MCP).
